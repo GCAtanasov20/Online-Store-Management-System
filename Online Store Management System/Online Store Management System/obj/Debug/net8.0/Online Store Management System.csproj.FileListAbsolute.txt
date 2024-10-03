@@ -1,0 +1,18 @@
+C:\Users\galinpin\source\repos\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galinpin\source\repos\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.AssemblyInfoInputs.cache
+C:\Users\galinpin\source\repos\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.AssemblyInfo.cs
+C:\Users\galinpin\source\repos\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.csproj.CoreCompileInputs.cache
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.GeneratedMSBuildEditorConfig.editorconfig
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.AssemblyInfoInputs.cache
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.AssemblyInfo.cs
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.csproj.CoreCompileInputs.cache
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\bin\Debug\net8.0\Online Store Management System.exe
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\bin\Debug\net8.0\Online Store Management System.deps.json
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\bin\Debug\net8.0\Online Store Management System.runtimeconfig.json
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\bin\Debug\net8.0\Online Store Management System.dll
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\bin\Debug\net8.0\Online Store Management System.pdb
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.dll
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\refint\Online Store Management System.dll
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.pdb
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\Online Store Management System.genruntimeconfig.cache
+H:\Temporary\Online Store Management System\Online Store Management System\Online Store Management System\obj\Debug\net8.0\ref\Online Store Management System.dll
